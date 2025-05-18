@@ -1,0 +1,19 @@
+{
+  "name": "ai-booking-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.0",
+    "@shadcn/ui": "^1.0.0",
+    "axios": "^1.0.0",
+    "date-fns": "^2.0.0",
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
